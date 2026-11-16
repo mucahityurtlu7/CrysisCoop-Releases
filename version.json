@@ -1,6 +1,6 @@
 {
-  "fallback_url": "https://github.com/mucahityurtlu7/CrysisCoop-Releases/releases/download/v0.3.31.8/CrysisCoop-0.3.31.8.zip",
-  "tag": "v0.3.31.8",
-  "download_url": "https://crysiscoop.com/downloads/CrysisCoop-0.3.31.8.zip",
-  "version": "0.3.31.8"
+    "download_url":  "https://crysiscoop.com/downloads/CrysisCoop-0.3.31.9.zip",
+    "version":  "0.3.31.9",
+    "tag":  "v0.3.31.9",
+    "fallback_url":  "https://github.com/mucahityurtlu7/CrysisCoop-Releases/releases/download/v0.3.31.9/CrysisCoop-0.3.31.9.zip"
 }
