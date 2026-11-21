@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.38.0",
-    "tag":  "v0.3.38.0",
-    "sha256":  "6e0e1a33f57408cf095999cc2be8ee069438c6251a2a39979b48f99e629b4b04",
+    "version":  "0.3.38.1",
+    "tag":  "v0.3.38.1",
+    "sha256":  "4138214d44b68d55ed431ebcbd81b0a1ff0a20dfd5981b11e4edce923d8456ca",
     "launcher_version":  "1.0.3",
     "launcher_sha256":  "3fdac2fa9d89ffe8a4afadc11f070fbdd3adf09456b2df09b639d1dc6ba4af89",
-    "download_url":  "https://crysiscoop.com/downloads/CrysisCoop-0.3.38.0.zip",
-    "fallback_url":  "https://github.com/mucahityurtlu7/CrysisCoop-Releases/releases/download/v0.3.38.0/CrysisCoop-0.3.38.0.zip"
+    "download_url":  "https://crysiscoop.com/downloads/CrysisCoop-0.3.38.1.zip",
+    "fallback_url":  "https://github.com/mucahityurtlu7/CrysisCoop-Releases/releases/download/v0.3.38.1/CrysisCoop-0.3.38.1.zip"
 }
